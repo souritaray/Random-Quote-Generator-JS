@@ -54,4 +54,9 @@ h3 {
   transform: scale(0.98);
 }
 
-
+#author{
+font-style: italic;
+}
+#author::before{
+  content: "~";
+}
