@@ -1,4 +1,4 @@
-# Randon Quote Generator
+# Random Quote Generator
 
 ![shield](https://img.shields.io/badge/-Javascript-orange)
 
@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/100030958/204593772-585b2b6c-1ea9-4572
 
 ## Live link
 
-
+[Quote Generator](https://random-quote-generator-app-souritaray.netlify.app/)
 
 ## Contact me on:
 
